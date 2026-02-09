@@ -51,7 +51,6 @@ RUN apt-get update && apt-get install -y \
     python3-catkin-pkg \
     python3-argcomplete \
     python3-colcon-common-extensions \
-    ament-cmake \
     clang \
     clang-format \
     clang-tidy \
